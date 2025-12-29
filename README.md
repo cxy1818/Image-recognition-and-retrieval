@@ -1,4 +1,5 @@
 #  懒得写readme了。这是让豆包写的，注意辨别
+注意这个带授权工具，你需要编译license_verify.cpp为dll。再使用生成license脚本和生成机器码脚本生成license.dat。（这些都都放在代码同文件夹了。）如果嫌麻烦你可以直接修改main.py源码跳过授权验证。
 通过监听剪贴板，将框选的图片与图库比对查找。
 Sticker Recognize
 基于 CLIP + FAISS 的贴纸识别工具，轻量高效，支持剪贴板实时识别。
