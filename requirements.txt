@@ -1,0 +1,8 @@
+torch>=2.0.0
+faiss-cpu>=1.7.3  # 如果使用GPU，可改为 faiss-gpu
+numpy>=1.23.0
+Pillow>=9.0.0
+tqdm>=4.64.0
+clip @ git+https://github.com/openai/CLIP.git
+tk
+pyperclip>=1.8.2
