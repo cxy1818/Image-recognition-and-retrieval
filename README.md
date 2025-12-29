@@ -50,5 +50,7 @@ python main.py
 复制贴纸图片到剪贴板
 自动弹出识别结果，点击即可复制名称
 注意这个带授权工具，你需要编译license_verify.cpp为dll。再使用生成license脚本和生成机器码脚本生成license.dat。（这些都都放在代码同文件夹了。）如果嫌麻烦你可以直接修改main.py源码跳过授权验证。
+
+
 请作者喝个瑞幸、矿泉水、一顿饭、饿着啥也没有
 ![GitHub README 示例图3](3.jpg)
