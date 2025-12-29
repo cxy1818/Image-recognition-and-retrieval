@@ -54,3 +54,4 @@ python main.py
 
 请作者喝个瑞幸、矿泉水、一顿饭、饿着啥也没有   你也可以联系作者（微信号：cxy-cxy-1188）付费获取可以双击运行无需繁琐部署的版本
 ![GitHub README 示例图3](3.jpg)
+![GitHub README 示例图3](4.jpg)
