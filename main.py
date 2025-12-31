@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import io, os, queue, threading, time, tempfile
 import sys
 import ctypes
@@ -636,3 +635,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
